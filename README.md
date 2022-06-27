@@ -18,33 +18,4 @@ __<p> LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </
 </div>
 
 <!--START_SECTION:waka-->
-
-```text
-From: 19 June 2022 - To: 26 June 2022
-
-Total Time: 20 hrs 40 mins
-
-JavaScript   14 hrs 12 mins  █████████████████▒░░░░░░░   68.75 %
-SCSS         5 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-Markdown     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-```
-
 <!--END_SECTION:waka-->
-
-<!--
-**SimbaWANGU/SimbaWANGU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
