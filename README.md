@@ -20,16 +20,15 @@ __<p> LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 06 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
-Total Time: 4 hrs 39 mins
+Total Time: 9 hrs 35 mins
 
-Ruby         3 hrs 42 mins   ███████████░░░░░░░░░░░░░░   44.57 %
-JavaScript   2 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 %
-HTML         1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-SQL          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Ruby         6 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.45 %
+JavaScript   2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+YAML         2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+HTML         1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Other        42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
