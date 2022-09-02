@@ -20,16 +20,16 @@ __<p> LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 30 August 2022
+From: 24 August 2022 - To: 31 August 2022
 
-Total Time: 11 hrs 10 mins
+Total Time: 10 hrs 7 mins
 
-Ruby         7 hrs 31 mins   ████████████████▓░░░░░░░░   66.63 %
-ERB          2 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-SCSS         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-YAML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Ruby         6 hrs 29 mins   ███████████████▓░░░░░░░░░   63.23 %
+ERB          2 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+SCSS         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
