@@ -20,13 +20,7 @@ __<p> LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
-
-Total Time: 1 hr 18 mins
-
-Ruby       37 mins         ███████████▒░░░░░░░░░░░░░   44.83 %
-YAML       33 mins         ██████████░░░░░░░░░░░░░░░   39.62 %
-Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
