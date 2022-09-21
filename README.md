@@ -5,7 +5,7 @@
 <img src="/arrow-svgrepo-com.svg" margin="auto" width="100%" height="200px">
 
 
-<p align="center">I am a remote student at Microverse studying Web Development. I am currently in my second module and I look forward to learning even more in the future. I enjoy designing and creating beautiful mark ups as well as implementing the functionality behind it.</p>
+<p align="center">I am a Web Developer from Kenya. I mainly code in JavaScript. I recently fell in love with React and React Native and I look forward to adding even more knowledge in future. I am currently looking for my next role and would be open to any opportunity.</p>
 
 <p align="center">You can reach me on my socials... </p>
 
