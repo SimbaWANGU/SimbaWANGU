@@ -20,16 +20,16 @@ __<p> LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 October 2022 - To: 31 October 2022
+From: 25 October 2022 - To: 01 November 2022
 
-Total Time: 11 hrs 17 mins
+Total Time: 5 hrs 26 mins
 
-TypeScript   9 hrs 15 mins   ████████████████████▒░░░░   81.94 %
-Ruby         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Markdown     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-ERB          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   3 hrs 34 mins   ████████████████▒░░░░░░░░   65.66 %
+Ruby         1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+ERB          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Text         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
