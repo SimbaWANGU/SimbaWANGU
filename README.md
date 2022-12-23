@@ -20,16 +20,16 @@ __<p> LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
+From: 15 December 2022 - To: 22 December 2022
 
-Total Time: 18 hrs 40 mins
+Total Time: 22 hrs 33 mins
 
-SCSS         9 hrs 33 mins   ████████████▓░░░░░░░░░░░░   51.12 %
-TypeScript   4 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-JavaScript   2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Ruby         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-YAML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+SCSS         12 hrs          █████████████▒░░░░░░░░░░░   53.13 %
+TypeScript   6 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.00 %
+JavaScript   1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Ruby         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
