@@ -13,7 +13,7 @@
 
 __<p>  GitHub: [@SimbaWANGU](https://github.com/SimbaWANGU)__  </p>
 __<p> Twitter: [@simb_erella](https://twitter.com/simb_erella)__ </p>
-__<p> LinkesIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </p>
+__<p> LinkedIn: [Simba Wangulu](https://www.linkedin.com/in/simba-wangulu/)__ </p>
 
 </div>
 
