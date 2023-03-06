@@ -21,16 +21,16 @@ __<p> Email: simbawangulu@gmail.com__ </p>
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2023 - To: 04 March 2023
+From: 26 February 2023 - To: 05 March 2023
 
-Total Time: 14 hrs 46 mins
+Total Time: 19 hrs 56 mins
 
-JavaScript   6 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   40.77 %
-HTML         3 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
-JSON         2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-TypeScript   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Pug          58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-YAML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+TypeScript   6 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+JavaScript   5 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+HTML         3 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+JSON         2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Pug          57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+YAML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
