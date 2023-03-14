@@ -21,14 +21,13 @@ __<p> Email: simbawangulu@gmail.com__ </p>
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-Total Time: 19 hrs 13 mins
+Total Time: 17 hrs 40 mins
 
-TypeScript   18 hrs 16 mins  ███████████████████████▓░   95.02 %
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   17 hrs 34 mins  █████████████████████████   99.48 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
