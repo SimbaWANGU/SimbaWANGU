@@ -1,10 +1,11 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
+  pull_request:
+    types: [opened, synchronize, reopened]
   schedule:
-    # Runs at every 12AM UTC
-    - cron: "0 0 * * *"
+    # Runs every Sunday at 9:00 PM UTC
+    - cron: "0 21 * * 0"
 
 jobs:
   update-readme:
