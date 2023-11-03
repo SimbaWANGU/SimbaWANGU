@@ -1,11 +1,11 @@
 
 <h1 align="center"> Hi there👋, I'm Simba</h1>
-<h3 align="center">A software developer from Kenya</h3>
+<h3 align="center">A Software Developer from Kenya</h3>
 
 <img src="/arrow-svgrepo-com.svg" margin="auto" width="100%" height="200px">
 
 
-<p align="center">I am a Web Developer from Kenya. I mainly code in JavaScript. I recently fell in love with React and React Native and I look forward to adding even more knowledge in future. I am currently looking for my next role and would be open to any opportunity.</p>
+<p align="center">I work as a Software Developer in Kenya, focusing on TypeScript. I have a strong passion for building with React and React Native, finding joy in crafting user-friendly interfaces and robust applications. By delving into the intricacies of these technologies, I aim to create seamless digital experiences that resonate with users on a profound level. As I continue on this journey, I am eager to explore new possibilities, embrace emerging trends, and contribute to the ever-evolving landscape of software development.</p>
 
 <p align="center">You can reach me on my socials... </p>
 
