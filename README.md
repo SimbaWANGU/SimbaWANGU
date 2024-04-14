@@ -21,15 +21,13 @@ __<p> Email: simbawangulu@gmail.com__ </p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 07 April 2024 - To: 14 April 2024
 
-Total Time: 33 hrs 58 mins
+Total Time: 7 hrs 8 mins
 
-TypeScript   32 hrs 48 mins  ████████████████████████░   96.57 %
-JSON         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-JavaScript   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-TSConfig     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   6 hrs 51 mins   ████████████████████████░   96.12 %
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
